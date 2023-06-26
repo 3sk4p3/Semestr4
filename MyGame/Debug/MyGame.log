@@ -1,0 +1,4 @@
+﻿  Engine.cpp
+C:\Users\Aiwass\Desktop\hmm\Semestr4\OOP\MyGame\Ball.h(15,21): warning C4114: same type qualifier used more than once
+C:\Users\Aiwass\Desktop\hmm\Semestr4\OOP\MyGame\Engine.cpp(95,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  MyGame.vcxproj -> C:\Users\Aiwass\Desktop\hmm\Semestr4\OOP\MyGame\Debug\MyGame.exe
