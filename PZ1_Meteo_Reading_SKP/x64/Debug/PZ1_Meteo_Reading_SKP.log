@@ -1,0 +1,5 @@
+﻿  Section2.cpp
+C:\Users\Aiwass\Desktop\hmm\Semestr4\PZ1\Meteo\PZ1_Meteo_Reading_SKP\Section2.cpp(11,33): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Aiwass\Desktop\hmm\Semestr4\PZ1\Meteo\PZ1_Meteo_Reading_SKP\Section2.cpp(28,15): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Aiwass\Desktop\hmm\Semestr4\PZ1\Meteo\PZ1_Meteo_Reading_SKP\Section2.cpp(157,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  PZ1_Meteo_Reading_SKP.vcxproj -> C:\Users\Aiwass\Desktop\hmm\Semestr4\PZ1\Meteo\PZ1_Meteo_Reading_SKP\x64\Debug\PZ1_Meteo_Reading_SKP.exe
